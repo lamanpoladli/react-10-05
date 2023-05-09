@@ -1,0 +1,71 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Laman",
+      "surname": "Poladli",
+      "age": 21,
+      "salary": 800,
+      "position": "Doctor",
+      "price": 15
+    },
+    {
+      "id": 2,
+      "name": "Nurlana",
+      "surname": "Hasanzada",
+      "age": 22,
+      "salary": 700,
+      "position": "Teacher",
+      "price": 16
+    },
+    {
+      "id": 3,
+      "name": "Aysel",
+      "surname": "Amrahova",
+      "age": 23,
+      "salary": 900,
+      "position": "Police",
+      "price": "12"
+    },
+    {
+      "name": "Baba ",
+      "surname": "Kazimov",
+      "age": "24",
+      "salary": "900",
+      "position": "doctor",
+      "id": "03f13dc5-d11f-4927-af1e-1461f23767c5"
+    },
+    {
+      "name": "Esed",
+      "surname": "Poladli",
+      "age": "22",
+      "salary": "1000",
+      "position": "police",
+      "id": "8e5edb0d-9388-4258-8ed5-beef7150558a"
+    },
+    {
+      "name": "Ramile",
+      "surname": "Poladli",
+      "age": "22",
+      "salary": "1000",
+      "position": "police",
+      "id": "8e5edb0d-9388-4258-8ed5-beef7150558a"
+    },
+    {
+      "name": "Nadir",
+      "surname": "Poladli",
+      "age": "22",
+      "salary": "1000",
+      "position": "police",
+      "id": "8e5edb0d-9388-4258-8ed5-beef7150558a"
+    },
+    {
+      "name": "Togrul",
+      "surname": "Poladli",
+      "age": "22",
+      "salary": "1000",
+      "position": "police",
+      "id": "8e5edb0d-9388-4258-8ed5-beef7150558a"
+    }
+  ]
+}
